@@ -1,4 +1,2 @@
 systemctl restart ssh
-# or
-sudo service ssh restart
 #Name the command that reboots the SSH service.

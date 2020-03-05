@@ -1,4 +1,2 @@
 lsblk
-# or
-fdisk -l
 #Name the command that lists the partition tables of drives?
